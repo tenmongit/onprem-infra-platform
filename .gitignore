@@ -1,0 +1,21 @@
+# Secrets
+*.tfstate
+*.tfstate.*
+.env.*
+!.env.example
+*.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+kubeconfig
+*.kubeconfig
+.vault_pass*
+# Heavy
+.terraform/
+*.qcow2
+*.img
+*.iso
+# Trash
+crash.log
+*.retry
