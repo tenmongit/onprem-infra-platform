@@ -1,0 +1,8 @@
+# системные
+/etc/passwd
+/etc
+
+# приложение
+/tmp/app data
+/tmp/app data/config.yml
+/tmp/app data/secret.key
